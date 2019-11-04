@@ -26,9 +26,7 @@ import com.whatsapp.cursoandroid.jamiltondamasceno.whatsapp.model.Usuario;
 
 import java.util.ArrayList;
 
-/**
- * A simple {@link Fragment} subclass.
- */
+
 public class ContatosFragment extends Fragment {
 
     private RecyclerView recyclerViewListaContatos;

@@ -1,8 +1,6 @@
 package com.whatsapp.cursoandroid.jamiltondamasceno.whatsapp.model;
 
-/**
- * Created by jamiltondamasceno
- */
+
 
 public class Mensagem {
 

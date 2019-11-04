@@ -16,9 +16,6 @@ import com.whatsapp.cursoandroid.jamiltondamasceno.whatsapp.model.Mensagem;
 
 import java.util.List;
 
-/**
- * Created by jamiltondamasceno
- */
 
 public class MensagensAdapter extends RecyclerView.Adapter<MensagensAdapter.MyViewHolder> {
 
