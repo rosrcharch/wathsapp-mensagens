@@ -47,12 +47,21 @@
                 android:layout_weight="1"
                 android:background="@android:color/white"
                 android:ems="10"
-                android:inputType="textPersonName" />
+                android:inputType="textPersonName"
+                android:paddingLeft="8dp" />
 
             <ImageView
-                android:id="@+id/imageView4"
+                android:id="@+id/imageGaleria"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
+                android:layout_marginLeft="8dp"
+                app:srcCompat="@drawable/arquivo_branco_24dp" />
+
+            <ImageView
+                android:id="@+id/imageCamera1"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="8dp"
                 app:srcCompat="@drawable/ic_camera_cinza_24dp" />
         </LinearLayout>
 
