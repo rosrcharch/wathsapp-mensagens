@@ -12,9 +12,6 @@ import com.google.firebase.auth.UserProfileChangeRequest;
 import com.whatsapp.cursoandroid.jamiltondamasceno.whatsapp.config.ConfiguracaoFirebase;
 import com.whatsapp.cursoandroid.jamiltondamasceno.whatsapp.model.Usuario;
 
-/**
- * Created by jamiltondamasceno
- */
 
 public class UsuarioFirebase {
 

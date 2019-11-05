@@ -2,10 +2,6 @@ package com.whatsapp.cursoandroid.jamiltondamasceno.whatsapp.helper;
 
 import android.util.Base64;
 
-/**
- * Created by jamiltondamasceno
- */
-
 public class Base64Custom {
 
     public static String codificarBase64(String texto){
